@@ -7,7 +7,7 @@ A fully dynamic **portfolio website** built using **Laravel**, featuring an **ad
 ## 📹 Live Preview
 
 ▶️ **[Click here to watch demo video](https://drive.google.com/file/d/1NcGJWu6A8Mg5XEtCDLsElu8BYIK_-aG0/view?usp=sharing)**  
-*(hosted on Google Drive)*
+
 
 ---
 
@@ -34,9 +34,11 @@ A fully dynamic **portfolio website** built using **Laravel**, featuring an **ad
   - Blogs
   - About section
   - Skills
+  - Projects
   - Contact details
-  - Logo and favicon
+  - Logos and favicon
   - Profile images
+  - Theme Colors
 - 🔐 **Login & Register** system for admin access
 - 📩 **User support chat** powered by **Laravel Reverb** and **Pusher**
 - 📁 SEO-friendly and modular content structure

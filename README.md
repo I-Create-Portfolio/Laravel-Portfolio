@@ -1,6 +1,6 @@
 # 🎯 Laravel Portfolio App with Admin Panel
 
-A fully dynamic **portfolio website** built using **Laravel**, featuring an **admin dashboard** to manage all portfolio content like blogs, profile, skills, and user support chat — powered by **Laravel Reverb** and **Pusher**.
+A fully dynamic **portfolio website** built using **Laravel**, featuring an **admin dashboard** to manage all portfolio content like blogs, profile, Projects, skills,theme colors and user support chat with light and dark theme — powered by **Laravel Reverb** and **Pusher**.
 
 ---
 
